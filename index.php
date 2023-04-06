@@ -34,10 +34,7 @@
                             Guaranteeing personalized solutions and flawless execution, our venues provide the perfect
                             location for your special day.
                             </p>
-                            <hr class="customline"><!--css modified horizontal line-->
-                            <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->
-                            View Events  <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><!--arrow right glyphicon-->
-                            </button>
+                            
                         </div><!--subcontent div-->
                     </div><!--container div-->
                 </section>
@@ -62,10 +59,7 @@
                             lasts well into the wee hours, our Urban Events team is here to make sure all your birthday
                             party wishes come true so you can kick back, drink up and enjoy your special day!
                             </p>
-                            <hr class="customline"><!--css modified horizontal line-->
-                            <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->
-                            View Events  <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><!--arrow right glyphicon-->
-                            </button>
+                            
                         </div><!--subcontent div-->
                     </div><!--container div-->
                 </section>
@@ -90,10 +84,7 @@
                             The Urban Purveyor Group venues provide you with choice and quality in premium locations 
                             for all your event needs.
                             </p>
-                            <hr class="customline"><!--css modified horizontal line-->
-                            <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->
-                            View Events  <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><!--arrow right glyphicon-->
-                            </button> 
+                            
                         </div><!--subcontent div-->
                     </div><!--container div-->
                 </section>
@@ -118,10 +109,7 @@
                             spaces can cater to your every need for meetings and conferences large or small, and our
                             dedicated event team can assist with all aspects of your event planning.
                             </p>
-                            <hr class="customline"><!--css modified horizontal line-->
-                            <button type="button" class="btn btn-default btn-lg"><!--view event button (no function implemented)-->
-                            View Events  <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><!--arrow right glyphicon--> 
-                            </button> 
+                            
                         </div><!--subcontent div-->
                     </div><!--container div-->
                 </section>

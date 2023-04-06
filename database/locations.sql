@@ -22,7 +22,7 @@ CREATE TABLE `locations` (
 --
 
 INSERT INTO `locations` (`LocationID`, `Name`, `Address`, `ManagerFName`, `ManagerLName`, `ManagerEmail`, `ManagerNumber`, `MaxCapacity`) VALUES
-(1, 'Royal Hotel', 'Bray', 'John', 'Byrne', 'John@email.com', 123456, 100);
+(1, 'Royal Hotel', 'nasita', 'nyla', 'nylaa', 'nasita@email.com', 123456, 100);
 
 --
 -- Indexes for dumped tables

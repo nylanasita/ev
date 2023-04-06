@@ -23,11 +23,11 @@
             
             <div class="container">
                 <div class="col-md-6 contacts">
-                    <h1><span class="glyphicon glyphicon-user"></span> Jullian Engracio</h1>
+                    <h1><span class="glyphicon glyphicon-user"></span> Nasita Nyla</h1>
                     <p>
-                        <span class="glyphicon glyphicon-envelope"></span> Email: julzengracio@yahoo.ie<br>
-                        <span class="glyphicon glyphicon-link"></span> Facebook: www.facebook.com/julzengracio<br>
-                        <span class="glyphicon glyphicon-phone"></span> Mobile: 08712345678
+                        <span class="glyphicon glyphicon-envelope"></span> Email: nasita.nyla@g.bracu.ac.bd<br>
+                        
+                        <span class="glyphicon glyphicon-phone"></span> Mobile: +88017********
                     </p>
                 </div>
                 <div class="col-md-6">

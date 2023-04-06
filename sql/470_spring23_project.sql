@@ -34,7 +34,7 @@ CREATE TABLE `events` (
 --
 
 INSERT INTO `events` (`EventID`, `Title`, `Description`, `StartDate`, `EndDate`, `Cost`, `LocationID`) VALUES
-(1, 'Wedding Anniversary', '1st Anniversary Celebration', '10-Oct-2015', '10-Oct-2016', 25000, 1);
+(1, 'Wedding Anniversary', '1st Anniversary Celebration', '10-Oct-2022', '10-Oct-2022', 25000, 1);
 
 -- --------------------------------------------------------
 

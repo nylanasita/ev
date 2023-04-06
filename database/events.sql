@@ -23,7 +23,7 @@ CREATE TABLE `events` (
 --
 
 INSERT INTO `events` (`EventID`, `Title`, `Description`, `StartDate`, `EndDate`, `Cost`, `LocationID`) VALUES
-(1, 'Wedding Anniversary', '1st Anniversary Celebration', '10-Oct-2015', '10-Oct-2016', 25000, 1);
+(1, 'Wedding Anniversary', '1st Anniversary Celebration', '10-Oct-2023', '10-Oct-2023', 25000, 1);
 
 --
 -- Indexes for dumped tables
